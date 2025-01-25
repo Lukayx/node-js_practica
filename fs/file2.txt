@@ -1,0 +1,4 @@
+gato
+perro
+pájaro
+tortuga
